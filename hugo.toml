@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Arctic Blue Pipeline"
+theme = "custom"
+
+[params]
+  description = "Full-cycle pipeline management: prospecting, qualification, negotiation and closing strategies."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
