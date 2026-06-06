@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Arctic Blue Pipeline"
 date: 2026-06-01
 description: "Full-cycle pipeline management: prospecting, qualification, negotiation and closing strategies."
